@@ -1,6 +1,6 @@
 # Hey, Welcome to Garuk Solutions
 
-![image](./../one.jpeg)
+![image](./one.jpeg)
 
 Just joined? Start here
 
