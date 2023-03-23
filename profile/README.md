@@ -1,6 +1,6 @@
 # Hey, Welcome to Garuk Solutions
 
-![image](./one.jpeg)
+![image](https://raw.githubusercontent.com/Garuk-solutions/.github/main/profile/one.jpeg)
 
 Just joined? Start here
 
